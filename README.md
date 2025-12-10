@@ -2,16 +2,16 @@
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Silent%2C+and+Level+up.%22" alt="Typing SVG" />
 
 <h1 align="center">Hi 👋, I'm Ahmed Hezqial Zaidan</h1>
-<h3 align="center">Interested in Front-end Web Development</h3>
+<h3 align="center">Interested in Fullstack Web Development</h3>
 
 <img align="right" alt="coding" width="350" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
 
-- 🔭 I’m currently working on **RCC Company**
+- 🔭 I’m currently working on **Sofyan Corporation**
 
 - 🌱 I’m currently learning **Vue,Typescript,React**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-hezqil-v1.vercel.app/](https://portfolio-hezqil-v1.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-hezqil-v1.vercel.app/](https://my-portfolio-v1-hezqil.vercel.app/)
 
 - 💬 Ask me about **AI,Cyber Security,Tech**
 
